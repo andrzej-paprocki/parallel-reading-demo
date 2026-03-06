@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>ENG ↔ RUS Reader</title>
+</head>
+<body>
+
+<main id="content"></main>
+
+<footer id="controls">
+  <div class="group">
+    <button id="eng-smaller">A−</button>
+    <span>EN</span>
+    <button id="eng-bigger">A+</button>
+  </div>
+
+  <div class="group">
+    <button id="pl-smaller">А−</button>
+    <span>PL</span>
+    <button id="pl-bigger">А+</button>
+  </div>
+
+  <div class="group">
+    <button id="open-colors">🎨</button>
+  </div>
+</footer>
+
+<div id="color-modal" class="hidden">
+  <div class="modal-content">
+    <h3>Settings</h3>
+    <label>White Theme Background: <input type="color" id="bg-color"></label>
+    <label>White Theme English Text: <input type="color" id="eng-color"></label>
+    <label>White Theme Polish Text: <input type="color" id="pl-color"></label>
+    <label>Voice: <select id="voice-select"></select></label>
+    <label>Speech rate:
+      <input type="range" id="rate-slider" min="0.5" max="2" step="0.1">
+      <span id="rate-value">1.0</span>
+    </label>
+    <label>
+      Dark Theme:
+      <input type="checkbox" id="dark-mode-toggle" checked>
+    </label>
+    <button id="close-colors">Close</button>
+  </div>
+</div>
+
+<script src="en.js">
+</script>
+
+<script src="pl.js">
+</script>
+
+<script src="script.js">
+</script>
+
+</body>
+</html>
