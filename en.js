@@ -2,7 +2,6 @@ const eng = [
   "ONE",
   "In which the links of coincidence are forged into the chain of fate",
   "The morning train from St. Petersburg, still enveloped in the swirling smoke from its locomotive, had scarcely slowed to a halt at the platform of Nikolaevsky Station, and the conductors had only just unfolded the short flights of steps and tipped their peaked caps in salute, when a young man attired in quite remarkable style leapt out of one of the first-class carriages",
-  "He seemed to have sprung straight out of some picture in a Parisian magazine devoted to the glories of the 1882 summer-season fashion: a light suit of sandy-colored wild silk, a wide- brimmed hat of Italian straw, shoes with pointed toes, white spats with silver press-studs, and in his hand an elegant walking cane with a knob that was also silver",
   "However, it was not so much the passenger’s foppish attire that attracted attention as his physique, which was quite imposing, one might almost say spectacular",
   "The young man was tall, with a trim figure and wide shoulders",
   "He regarded the world through clear blue eyes, and his slim mustache with curled ends sat quite extraordinarily well with his regular features, which included one distinctive peculiarity — the neatly combed black hair shaded intriguingly into silver-gray at the temples",
