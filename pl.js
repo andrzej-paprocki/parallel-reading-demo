@@ -2,7 +2,6 @@ const pl = [
 "JEDEN",
   "W którym łańcuchy zbiegów okoliczności zostają wykute w łańcuch przeznaczenia",
   "Poranny pociąg z Petersburga, wciąż spowity kłębami dymu ze swojej lokomotywy, ledwie zwolnił na peronie Dworca Nikołajewskiego, a konduktorzy dopiero co rozstawili krótkie drabinki i zdjęli czapki na powitanie, gdy młody człowiek w niezwykle osobliwym stroju wyskoczył z jednego z wagonów pierwszej klasy",
-  "Wyglądał, jakby wyszedł prosto z jakiejś ilustracji w paryskim czasopiśmie poświęconym chwale letniej mody roku 1882: lekki garnitur z piaskowego dzikiego jedwabiu, szerokokapeluszowy włoski kapelusz słomkowy, buty ze spiczastymi noskami, białe getry ze srebrnymi guzikami, a w rękach elegancka laska ze srebrną rękojeścią",
   "Jednak uwagę przyciągał nie tyle fantazyjny strój pasażera, ile jego budowa ciała, która była bardzo imponująca, można wręcz powiedzieć — efektowna",
   "Młody człowiek był wysoki, o wysportowanej sylwetce i szerokich ramionach",
   "Patrzył na świat jasnymi niebieskimi oczami, a jego cienkie wąsy z podkręconymi końcami zadziwiająco harmonizowały z regularnymi rysami twarzy, wśród których była jedna charakterystyczna cecha — starannie ułożone czarne włosy, intrygująco przechodzące w srebrzystoszare na skroniach",
